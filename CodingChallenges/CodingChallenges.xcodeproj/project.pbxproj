@@ -16,6 +16,7 @@
 		3D69F66029E21679007A10F6 /* NameCards.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D69F65C29E21679007A10F6 /* NameCards.swift */; };
 		3D69F66129E21679007A10F6 /* Isograms.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D69F65D29E21679007A10F6 /* Isograms.swift */; };
 		3D69F66329E21692007A10F6 /* ReverseAString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D69F66229E21692007A10F6 /* ReverseAString.swift */; };
+		3D69F66529E21BDA007A10F6 /* FizzBuzz.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D69F66429E21BDA007A10F6 /* FizzBuzz.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,7 @@
 		3D69F65C29E21679007A10F6 /* NameCards.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NameCards.swift; sourceTree = "<group>"; };
 		3D69F65D29E21679007A10F6 /* Isograms.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Isograms.swift; sourceTree = "<group>"; };
 		3D69F66229E21692007A10F6 /* ReverseAString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReverseAString.swift; sourceTree = "<group>"; };
+		3D69F66429E21BDA007A10F6 /* FizzBuzz.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FizzBuzz.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +69,7 @@
 				3D69F65C29E21679007A10F6 /* NameCards.swift */,
 				3D69F65A29E21679007A10F6 /* Palindrome.swift */,
 				3D69F65B29E21679007A10F6 /* SingularOrPlural.swift */,
+				3D69F66429E21BDA007A10F6 /* FizzBuzz.swift */,
 				3D69F66229E21692007A10F6 /* ReverseAString.swift */,
 				3D69F65029E21645007A10F6 /* Assets.xcassets */,
 				3D69F65229E21645007A10F6 /* Preview Content */,
@@ -159,6 +162,7 @@
 				3D69F65E29E21679007A10F6 /* Palindrome.swift in Sources */,
 				3D69F64D29E21643007A10F6 /* CodingChallengesApp.swift in Sources */,
 				3D69F65F29E21679007A10F6 /* SingularOrPlural.swift in Sources */,
+				3D69F66529E21BDA007A10F6 /* FizzBuzz.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
